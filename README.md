@@ -83,3 +83,5 @@ You can refer to the following articles on the basics of Git and Github and also
 It always takes time to understand and learn. So, do not worry at all. You can do this!
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Happy+contributing!;&size=30)](https://git.io/typing-svg)
+
+[MIT LICENSE](LICENSE)
