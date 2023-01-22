@@ -37,7 +37,7 @@ Following are the steps to guide you:
 to INR, Yen to INR and vice versa), distance converter (meter to KM, miles to KM
 and vice versa), time converter (hours to minutes, seconds and vice versa) using
 packages.
-5. Factory design pattern- car 
+5. ~~Factory design pattern- car~~ 
 6. Factory design pattern- email
 7. ~~Factory design pattern- bank~~
 8. ~~Singleton class~~ 
@@ -63,10 +63,10 @@ Write a Java program to create n Student objects and print the USN, Name, Branch
 Phone of these objects with suitable headings.
 3. ~~Write a program to check prime number~~
 4. Write a program for Arithmetic calculator using switch case menu
-5. Design a super class called Staff with details as StaffId, Name, Phone, Salary. Extend this
-class by writing three subclasses namely Teaching (domain, publications), Technical
-(skills), and Contract (period). Write a Java program to read and display at least 3 staff
-objects of all three categories.
+5. ~~Design a super class called Staff with details as StaffId, Name, Phone, Salary. Extend this~~
+~~class by writing three subclasses namely Teaching (domain, publications), Technical~~
+~~(skills), and Contract (period). Write a Java program to read and display at least 3 staff~~
+~~objects of all three categories.~~
 6. ~~Write a java program demonstrating Method overloading and Constructor
 overloading (room area)~~
 
