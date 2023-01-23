@@ -41,7 +41,7 @@ packages.
 6. Factory design pattern- email
 7. ~~Factory design pattern- bank~~
 8. ~~Singleton class~~ 
-9. Singleton class using 4 objects
+9. ~~Singleton class using 4 objects~~
 10. Write a program using class to process Shopping List for a departmental store. The list includes details such as the Code No and Price of each item and performs the operations like Adding , Deleting Items to the list and Printing the Total value of an Order.
 11. ~~first occurrence of character, repeated characters list, character that repeats itself earliest~~
 12. ~~Enhanced for loop demo~~
@@ -54,13 +54,13 @@ packages.
 ### B. LAB programs
 1. Write a java program that prints all real solutions to the quadratic equation
 ax2+bx+c=0. Read in a, b, c and use the quadratic formula
-2. Create a Java class called Student with the following details as variables within it.
+2. ~~Create a Java class called Student with the following details as variables within it.
 USN
 Name
 Branch
 Phone
 Write a Java program to create n Student objects and print the USN, Name, Branch, and
-Phone of these objects with suitable headings.
+Phone of these objects with suitable headings.~~
 3. ~~Write a program to check prime number~~
 4. Write a program for Arithmetic calculator using switch case menu
 5. ~~Design a super class called Staff with details as StaffId, Name, Phone, Salary. Extend this~~
