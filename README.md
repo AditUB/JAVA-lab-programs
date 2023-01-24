@@ -50,6 +50,9 @@ packages.~~ --ANAGHA G
 15. ~~String operations~~ --ALAN
 16. ~~String constant, non constant~~ --ALAN
 17. ~~Palindrome check~~ --ALAN
+18. ~~Simple Array list program~~ --ALAN
+19. ~~Array List with Loose Coupling~~ --ALAN
+20. ~~Array list demo using generics (student class in arraylist)~~ --AUB
 
 ### B. LAB programs
 1. ~~Write a java program that prints all real solutions to the quadratic equation
@@ -69,6 +72,13 @@ skills), and Contract (period). Write a Java program to read and display at leas
 objects of all three categories.~~ --ADITHYA PRAKASH
 6. ~~Write a java program demonstrating Method overloading and Constructor
 overloading (room area)~~ --ADITHYA PRAKASH
+7. Write a program to generate the resume. Create 2 Java classes Teacher (data:
+personal information, qualification, experience, achievements) and Student (data: personal
+information, result, discipline) which implements the java interface Resume with the
+method biodata().
+8. ~~Write a program to perform string operations using ArrayList. Write functions for
+the following a. Append - add at end b. Insert – add at particular index c. Search d. List all
+string starts with given letter.~~ --ALAN
 
 ## Need more help?
 
