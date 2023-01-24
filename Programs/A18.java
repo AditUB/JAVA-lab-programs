@@ -31,6 +31,9 @@ public class ArraylistDemo {
 
 			System.out.println(l);
 		}
+		
+		//trying to print arraylist object will print all the elements in the arraylist
+		System.out.println(al);
 
 	}
 
