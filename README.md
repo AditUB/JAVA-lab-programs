@@ -46,7 +46,7 @@ packages.~~ --ANAGHA G
 11. ~~first occurrence of character, repeated characters list, character that repeats itself earliest~~ --ALAN
 12. ~~Enhanced for loop demo~~ --ALAN
 13. ~~Object direct printing Using toString~~ --ALAN
-14. ~~Basic inheritance demo~~ --ALAN
+14. ~~Basic inheritance demo~~ --ADITYA PRAKASH
 15. ~~String operations~~ --ALAN
 16. ~~String constant, non constant~~ --ALAN
 17. ~~Palindrome check~~ --ALAN
