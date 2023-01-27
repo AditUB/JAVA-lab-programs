@@ -32,7 +32,7 @@ Following are the steps to guide you:
 ### A. Extra ques
 1. ~~Complex addition~~ --ALAN
 2. ~~Employee get data, sort, display~~ --AUB
-3. ~~Teacher gives pen to student, student open cap, write something closes cap~~ --ADITHYA PRAKASH
+3. ~~Teacher gives pen to student, student open cap, write something closes cap~~ --ADITYA PRAKASH
 4. ~~Develop a java application to implement currency converter (Dollar to INR, EURO
 to INR, Yen to INR and vice versa), distance converter (meter to KM, miles to KM
 and vice versa), time converter (hours to minutes, seconds and vice versa) using
@@ -46,7 +46,7 @@ packages.~~ --ANAGHA G
 11. ~~first occurrence of character, repeated characters list, character that repeats itself earliest~~ --ALAN
 12. ~~Enhanced for loop demo~~ --ALAN
 13. ~~Object direct printing Using toString~~ --ALAN
-14. ~~Basic inheritance demo~~ --ALAN
+14. ~~Basic inheritance demo~~ --ADITYA PRAKASH
 15. ~~String operations~~ --ALAN
 16. ~~String constant, non constant~~ --ALAN
 17. ~~Palindrome check~~ --ALAN
@@ -64,18 +64,18 @@ Branch
 Phone
 Write a Java program to create n Student objects and print the USN, Name, Branch, and
 Phone of these objects with suitable headings.~~ --ALAN
-3. ~~Write a program to check prime number~~ --ADITHYA PRAKASH
+3. ~~Write a program to check prime number~~ --ADITYA PRAKASH
 4. ~~Write a program for Arithmetic calculator using switch case menu~~ --ANAGHA G
 5. ~~Design a super class called Staff with details as StaffId, Name, Phone, Salary. Extend this
 class by writing three subclasses namely Teaching (domain, publications), Technical
 skills), and Contract (period). Write a Java program to read and display at least 3 staff
-objects of all three categories.~~ --ADITHYA PRAKASH
+objects of all three categories.~~ --ADITYA PRAKASH
 6. ~~Write a java program demonstrating Method overloading and Constructor
-overloading (room area)~~ --ADITHYA PRAKASH
-7. Write a program to generate the resume. Create 2 Java classes Teacher (data:
+overloading (room area)~~ --ADITYA PRAKASH
+7. ~~Write a program to generate the resume. Create 2 Java classes Teacher (data:
 personal information, qualification, experience, achievements) and Student (data: personal
 information, result, discipline) which implements the java interface Resume with the
-method biodata().
+method biodata().~~ --ADITYA PRAKASH
 8. ~~Write a program to perform string operations using ArrayList. Write functions for
 the following a. Append - add at end b. Insert – add at particular index c. Search d. List all
 string starts with given letter.~~ --ALAN
