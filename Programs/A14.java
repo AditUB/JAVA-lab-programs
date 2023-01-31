@@ -51,7 +51,7 @@ public class Main {
     public static void main(String[] args) {
         Teacher t1 = new Teacher("Ram", 30, "webdev", 10);
         t1.display();
-        Student s1 = new Student("Aditya", 20, "cse", "1rn21cs015");
+        Student s1 = new Student("Aditya", 19, "cse", "1rn21cs015");
         s1.display();
     }
 }
