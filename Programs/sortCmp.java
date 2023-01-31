@@ -1,7 +1,7 @@
 import java.util.*;
 
 // implementation concern is taken care here
-class Employee
+public class Employee
 {
     int Eid;
     String Ename;
@@ -20,7 +20,7 @@ class Employee
     
 }
 
-class ArrayListDemo
+public class ArrayListDemo
 {
     public ArrayList<Employee> getList()
     {
@@ -53,7 +53,7 @@ class ArrayListDemo
 }
 
 //using Comparator interface to sort on basis of experience
-class ExpComp implements Comparator<Employee> {
+public class ExpComp implements Comparator<Employee> {
   
     public int compare(Employee e1, Employee e2)
     {
@@ -66,7 +66,7 @@ class ExpComp implements Comparator<Employee> {
     }
 }
   
-class Trial {
+public class Trial {
     public static void main(String[] args) {
 //usage concern is taken care here
         ArrayListDemo data=new ArrayListDemo();
