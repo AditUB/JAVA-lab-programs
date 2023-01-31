@@ -52,6 +52,7 @@ class ArrayListDemo
     
 }
 
+//using Comparator interface to sort on basis of experience
 class ExpComp implements Comparator<Employee> {
   
     public int compare(Employee e1, Employee e2)
@@ -70,7 +71,7 @@ class Trial {
 //usage concern is taken care here
         ArrayListDemo data=new ArrayListDemo();
         ArrayList<Employee> al=data.getList();
-        
+//using builtin sort function with the help of Comparator       
         Collections.sort(al, new ExpComp());
         
         data.display(al);
