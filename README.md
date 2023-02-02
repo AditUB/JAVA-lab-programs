@@ -53,7 +53,9 @@ packages.~~ --ANAGHA G
 18. ~~Simple Array list program~~ --ALAN
 19. ~~Array List with Loose Coupling~~ --ALAN
 20. ~~Array list demo using generics (student class in arraylist)~~ --AUB
-21. ~~Array list sorting of user-defined objects~~ --ALAN
+21. ~~Array list sorting of user-defined objects (using comparator and comparable)~~ --ALAN, V2 --ADITYA PRAKASH
+22. ~~Array list sorting of user-defined objects (using comparator)~~ --ADITYA PRAKASH
+23. ~~Array list sorting of user-defined objects (using comparable)~~ --AUB
 
 ### B. LAB programs
 1. ~~Write a java program that prints all real solutions to the quadratic equation
