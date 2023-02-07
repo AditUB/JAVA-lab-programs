@@ -57,6 +57,9 @@ packages.~~ --ANAGHA G
 22. ~~Array list sorting of user-defined objects (using comparator)~~ --ADITYA PRAKASH
 23. ~~Array list sorting of user-defined objects (using comparable)~~ --AUB
 24. ~~Facade design pattern~~ --ALAN
+25. ~~Priority Queues~~
+    1. ~~Priority queue of user defined class objects~~ -- AUB
+    2. ~~Priority queue demo~~ --AUB
 
 ### B. LAB programs
 1. ~~Write a java program that prints all real solutions to the quadratic equation
