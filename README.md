@@ -86,6 +86,17 @@ method biodata().~~ --ADITYA PRAKASH
 8. ~~Write a program to perform string operations using ArrayList. Write functions for
 the following a. Append - add at end b. Insert – add at particular index c. Search d. List all
 string starts with given letter.~~ --ALAN
+9. ~~Write a Java program to read two integers a and b. Compute a/b and print, when
+b is not zero. Raise an exception when b is equal to zero.~~ --ALAN
+10. Write a Java program that implements a multi-thread application that has three
+threads. First thread generates a random integer for every 1 second; second thread
+computes the square of the number and prints; third thread will print the value of cube of
+the number.
+11. Write a java program that reads a file name from the user, displays information about
+whether the file exists, whether the file is readable, or writable, the type of file and the
+length of the file in bytes
+12. Develop an applet that displays a simple message in center of the screen.
+Develop a simple calculator using Swings.
 
 ## Need more help?
 
