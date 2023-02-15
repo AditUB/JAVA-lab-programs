@@ -23,6 +23,7 @@ public class A_List {
 			ans=sc.next().charAt(0);
 		}while((ans=='Y')||(ans=='y'));	
 		// usually we append more than 1 at a time, hence the loop
+		System.out.println("The Array elements are:"+al);
 		
 	}
 	
