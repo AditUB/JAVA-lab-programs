@@ -60,6 +60,12 @@ packages.~~ --ANAGHA G
 25. ~~Priority Queues~~
     1. ~~Priority queue of user defined class objects~~ -- AUB
     2. ~~Priority queue demo~~ --AUB
+26. ~~Exception Handling programs~~
+    1. ~~Using finnaly demo~~ --AUB
+    2. ~~Creating exception demo 1~~ --AUB
+    3. ~~Creating exception demo 2~~ --AUB
+    4. ~~Using throws~~ --AUB
+    5. ~~Using throwable~~ --AUB
 
 ### B. LAB programs
 1. ~~Write a java program that prints all real solutions to the quadratic equation
