@@ -101,8 +101,8 @@ the number.
 11. Write a java program that reads a file name from the user, displays information about
 whether the file exists, whether the file is readable, or writable, the type of file and the
 length of the file in bytes
-12. Develop an applet that displays a simple message in center of the screen.
-Develop a simple calculator using Swings.
+12. ~~Develop an applet that displays a simple message in center of the screen.
+Develop a simple calculator using Swings.~~ --ALAN
 
 ## Need more help?
 
